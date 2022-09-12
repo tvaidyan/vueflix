@@ -74,7 +74,7 @@ export default {
   justify-content: center;
   align-self: flex-start;
   max-width: 20em;
-  padding: 1em;
+  padding: 0.5em;
 }
 
 .app-header {
